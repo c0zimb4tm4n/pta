@@ -1,10 +1,7 @@
 # pta
 stats 515 class activity
 
-<<<<<<< HEAD
-
+#AAyein
 
 NIKELODEAN
-=======
 ##BILLO BAKE BAGGHEYA DA KI KAREGI
->>>>>>> 97c01b8 (adding my changes)
